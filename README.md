@@ -22,7 +22,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 ## 🤝 Colaboradores
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+Agradecemos à(s) seguinte(s) pessoa(s) que contribuíram para este projeto:
 
 <table>
   <tr>
@@ -30,7 +30,15 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       <a href="#">
         <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Sergio Luis Cardoso"/><br>
         <sub>
-          <b>Barry White Jr</b>
+          <b>Sergio Cardoso</b>
+        </sub>
+      </a>
+    </td>
+     <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/47903440?v=4" width="100px;" alt="Foto do Rodolfo Mori"/><br>
+        <sub>
+          <b>Rodolfo Mori</b>
         </sub>
       </a>
     </td>
